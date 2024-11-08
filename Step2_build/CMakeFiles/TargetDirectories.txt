@@ -1,0 +1,7 @@
+/home/kyanh/Desktop/LinuxNetwork/cmake_prj_template/cmake-3.31.0-rc2-tutorial-source/Step2_build/CMakeFiles/Tutorial.dir
+/home/kyanh/Desktop/LinuxNetwork/cmake_prj_template/cmake-3.31.0-rc2-tutorial-source/Step2_build/CMakeFiles/edit_cache.dir
+/home/kyanh/Desktop/LinuxNetwork/cmake_prj_template/cmake-3.31.0-rc2-tutorial-source/Step2_build/CMakeFiles/rebuild_cache.dir
+/home/kyanh/Desktop/LinuxNetwork/cmake_prj_template/cmake-3.31.0-rc2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/kyanh/Desktop/LinuxNetwork/cmake_prj_template/cmake-3.31.0-rc2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/kyanh/Desktop/LinuxNetwork/cmake_prj_template/cmake-3.31.0-rc2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/kyanh/Desktop/LinuxNetwork/cmake_prj_template/cmake-3.31.0-rc2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
